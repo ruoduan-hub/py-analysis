@@ -71,6 +71,12 @@ instance/
 # Sphinx documentation
 docs/_build/
 
+### macOS ###
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
 # PyBuilder
 target/
 
